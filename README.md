@@ -16,8 +16,8 @@ git clone https://<username>:<github_token>@github.com/<username>/<repositorynam
 ### To make your commits count toward your contribution graph:
 ```bash
 cd /path/to/your/repo
-git config user.name "Jiranathanan"
-git config user.email "your@email.com"
+git config user.name "Jiranathanan Siripun"
+git config user.email "jiranathanan@email.com"
 ```
 #### Use the email associated with your GitHub account.
 
@@ -29,10 +29,10 @@ git remote set-url origin https://<username>:<github_token>@github.com/<username
 
 # Example
 ```bash
-git clone https://jiranathanan:ghp_AbCdEfGhIjKlMnOpQrStUvWxYz1234567890@github.com/jiranathanan/my-repo.git
+git clone https://Jiranathanan:ghp_AbCdEfGhIjKlMnOpQrStUvWxYz1234567890@github.com/jiranathanan/my-repo.git
 cd my-repo
-git config user.name "Jiranathanan"
-git config user.email "myemail@example.com"
+git config user.name "Jiranathanan Siripun"
+git config user.email "jiranathanan@example.com"
 ```
 
 
